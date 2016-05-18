@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "DopamineKit"
-  s.version          = "master"
+  s.version          = "0.1.0"
   s.summary          = "A framework to use DopamineLabs machine learning API"
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ This packages provides a framework for interacting with the Dopamine API from a 
   s.homepage         = "https://github.com/DopamineLabs/DopamineAPI_Swift-CocoaPod"
   s.license          = 'MIT'
   s.author           = { "Akash Desai" => "kash650@gmail.com" }
-  s.source           = { :git => "https://github.com/DopamineLabs/DopamineAPI_Swift-CocoaPod.git", :tag => '0.1.1' }
+  s.source           = { :git => "https://github.com/DopamineLabs/DopamineAPI_Swift-CocoaPod.git", :tag =>  s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
