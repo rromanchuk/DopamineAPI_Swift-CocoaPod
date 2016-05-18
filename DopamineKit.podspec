@@ -26,7 +26,7 @@ This packages provides a framework for interacting with the Dopamine API from a 
   s.homepage         = "https://github.com/DopamineLabs/DopamineAPI_Swift-CocoaPod"
   s.license          = 'MIT'
   s.author           = { "Akash Desai" => "kash650@gmail.com" }
-  s.source           = { :git => "https://github.com/DopamineLabs/DopamineAPI_Swift-CocoaPod.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/DopamineLabs/DopamineAPI_Swift-CocoaPod.git", :tag => '0.1.0' }
 
   s.ios.deployment_target = '8.0'
 
